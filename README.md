@@ -1,8 +1,7 @@
 # HackerRank - 10 Days of Javascript
 
-#### Here are my solutions to the `10 Days of Javascript` practice tutorial on HackerRank.
+## Here are my solutions to the `10 Days of Javascript` practice tutorial on HackerRank.
 
-> https://www.hackerrank.com/domains/tutorials/10-days-of-javascript
 
 > Day 0
 
