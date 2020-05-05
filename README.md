@@ -15,7 +15,7 @@
 
 > Day 2
 
-[Conditional Statements - IF-Else](Day-2/Conditional-Statements-if-else.js) / [Conditional Statements - Switch](Day-2/Conditional-Statements-Switch.js) / [Loops](Day-2/Loops.js)
+[Conditional Statements - IF-Else](Day-2/Conditional-Statements-If-Else.js) / [Conditional Statements - Switch](Day-2/Conditional-Statements-Switch.js) / [Loops](Day-2/Loops.js)
 
 
 > Day 3
