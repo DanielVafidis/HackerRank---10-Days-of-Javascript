@@ -15,8 +15,7 @@
 
 > Day 2
 
-[Conditional Statements - IF-Else](Day-2/Conditional-statements---if-else.js) / [Conditional Statements - Switck](Day-2/Conditional-statements---Switck.js)
-[Loops](Day-2/Loops.js)
+[Conditional Statements - IF-Else](Day-2/Conditional-statements---if-else.js) / [Conditional Statements - Switck](Day-2/Conditional-statements---Switck.js) / [Loops](Day-2/Loops.js)
 
 
 > Day 3
