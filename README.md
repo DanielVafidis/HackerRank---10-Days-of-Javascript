@@ -21,3 +21,8 @@
 > Day 3
 
 [Arrays](Day-3/Arrays.js) / [Try Catch and Finally](Day-3/TryCatch-and-Finally.js) / [Throw](Day-3/Throw.js)
+
+
+> Day 4
+
+[Create a Rectangle](Day-4/Create-a-Rectangle.js) / [Count Objects](Day-4/Count-Objects.js) / [Classes](Day-4/Classes.js)
