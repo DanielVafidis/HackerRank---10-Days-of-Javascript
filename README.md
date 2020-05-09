@@ -26,3 +26,8 @@
 > Day 4
 
 [Create a Rectangle](Day-4/Create-a-Rectangle.js) / [Count Objects](Day-4/Count-Objects.js) / [Classes](Day-4/Classes.js)
+
+
+> Day 5 
+
+[Inheritance](Day-5/Inheritance.js) / [Template Literals](Day-5/Template-Literals.js) / [Arrow-Functions](Day-5/Arrow-Functions.js)
