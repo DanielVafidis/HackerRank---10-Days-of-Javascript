@@ -31,3 +31,8 @@
 > Day 5 
 
 [Inheritance](Day-5/Inheritance.js) / [Template Literals](Day-5/Template-Literals.js) / [Arrow-Functions](Day-5/Arrow-Functions.js)
+
+
+> Day 6
+
+[Bitwise Operator](Day-6/Bitwise-Operator.js) / [Javascript Dates](Day-6/Javascript-Dates.js)
