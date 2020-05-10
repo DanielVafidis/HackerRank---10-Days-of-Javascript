@@ -7,6 +7,9 @@ function regexVar() {
 
     let re = /^(Mr\.|Mrs\.|Dr\.|Er\.)[a-zA-Z]*$/
 
+    // ^(Mr\.|Mrs\.|Dr\.|Er\.) => starts with ( Mr. or Ms. or Dr. or Er. )
+    // [a-zA-Z]*$ => followed by 1 or more Letters
+
     /*
      * Do not remove the return statement
      */

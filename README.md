@@ -41,3 +41,13 @@
 > Day 7
 
 [Regular Expressions I](Day-7/Regular-Expressions-I.js) / [Regular Expressions II](Day-7/Regular-Expressions-II.js) / [Regular Expressions III](Day-7/Regular-Expressions-III.js)
+
+
+> Day 8
+
+[Create a Button](Day-8/Create-a-Button) / [Buttons Container](Day-8/Buttons-Container)
+
+
+> Day 9
+
+[Binary Calculator](Day-9/Binary-Calculator)

@@ -6,6 +6,11 @@ function regexVar() {
 
     let re = /^([aeiou]).*\1$/;
 
+
+    // ^([aeiou]) => must start with any vowel
+    // .* => followed by any number of any character
+    // \1$ => ending with the same character as the first one (the same vowel)
+
     /*
      * Do not remove the return statement
      */
